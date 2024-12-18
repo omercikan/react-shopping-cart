@@ -5,6 +5,30 @@
 @import "../../../node_modules/bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
+$primary: #007bff;
+$secondary: #f4f6fc;
+$warning: gold;
+
+$position-values: (
+  0: 0,
+  25: 10px,
+  50: 20px,
+  100: 100%
+);
+
+$font-sizes: (
+  5: 14px,
+  6: 12px, 
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 375px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
 
 // 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
 @import "../../../node_modules/bootstrap/scss/variables";

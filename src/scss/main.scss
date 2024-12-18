@@ -2,9 +2,9 @@
 @use 'vendors/bootstrap.scss';
 
 //!Utils !//
-@use 'utils/variables.scss';
 @use 'utils/base.scss';
 
-//!Layout !//
-
-//!Pages !//
+//!Components !//
+@use 'components/productItem.scss';
+@use 'components/nav-item.scss';
+@use 'components/likes-item.scss';

@@ -9,12 +9,13 @@
     "rating": 4.5,
     "reviewCount": 124,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-half'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-half"
+    ],
+    "sellerRating": 9.3
   },
 
   {
@@ -24,15 +25,16 @@
     "price": 32499.99,
     "description": "Mükemmel kamera özellikleri ve şık tasarımıyla Huawei P50 Pro, mobil fotoğrafçılık için ideal.",
     "sellerName": "GadgetCity",
-    "rating": 5,
+    "rating": 4.8,
     "reviewCount": 350,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill"
+    ],
+    "sellerRating": 9.7
   },
 
   {
@@ -42,15 +44,16 @@
     "price": 44999.99,
     "description": "Samsung'un en güçlü modeli S24 Ultra ile eşsiz performansı ve profesyonel kamerayı deneyimleyin.",
     "sellerName": "PhoneWorld",
-    "rating": 4,
+    "rating": 4.8,
     "reviewCount": 212,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "'bi bi-star"
+    ],
+    "sellerRating": 9.5
   },
 
   {
@@ -60,15 +63,16 @@
     "price": 48999.99,
     "description": "Apple'ın inovasyon harikası olan iPhone 14 Pro Max, A16 Bionic çip ve çarpıcı ekranıyla harika bir kullanıcı deneyimi sunuyor.",
     "sellerName": "AppleWorld",
-    "rating": 5,
+    "rating": 4.7,
     "reviewCount": 600,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill"
+    ],
+    "sellerRating": 9.4
   },
 
   {
@@ -81,12 +85,13 @@
     "rating": 4.5,
     "reviewCount": 150,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-half'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-half"
+    ],
+    "sellerRating": 9.2
   },
 
   {
@@ -96,15 +101,16 @@
     "price": 31999.99,
     "description": "Şık ve zarif tasarımıyla öne çıkan Samsung Galaxy S24, günlük kullanım için mükemmel bir akıllı telefon.",
     "sellerName": "PhoneWorld",
-    "rating": 4,
+    "rating": 4.6,
     "reviewCount": 98,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "'bi bi-star"
+    ],
+    "sellerRating": 9.3
   },
 
   {
@@ -114,15 +120,16 @@
     "price": 8999.99,
     "description": "Samsung Galaxy Watch, spor aktivitelerinizi takip ederken şık bir stil sunar.",
     "sellerName": "GadgetCity",
-    "rating": 4,
+    "rating": 4.4,
     "reviewCount": 180,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star'></i>",
-      "<i className='bi bi-star'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "'bi bi-star",
+      "'bi bi-star"
+    ],
+    "sellerRating": 9.0
   },
 
   {
@@ -135,12 +142,13 @@
     "rating": 4.5,
     "reviewCount": 210,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-half'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-half"
+    ],
+    "sellerRating": 9.1
   },
 
   {
@@ -150,15 +158,16 @@
     "price": 22499.99,
     "description": "Samsung Tab S9, taşınabilirlik ve performansı bir arada sunar. Özellikle not tutma ve içerik tüketimi için mükemmeldir.",
     "sellerName": "TechStore",
-    "rating": 4,
+    "rating": 4.5,
     "reviewCount": 99,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star'></i>",
-      "<i className='bi bi-star'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "'bi bi-star",
+      "'bi bi-star"
+    ],
+    "sellerRating": 9.1
   },
 
   {
@@ -168,15 +177,16 @@
     "price": 42999.99,
     "description": "Efsanevi renk ve kontrast sunan Samsung OLED TV, evinizde sinema kalitesi sağlar.",
     "sellerName": "HomeTech",
-    "rating": 5,
+    "rating": 4.9,
     "reviewCount": 300,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill"
+    ],
+    "sellerRating": 9.8
   },
 
   {
@@ -186,17 +196,18 @@
     "price": 24999.99,
     "description": "Şık tasarımı ve gelişmiş kamera özellikleriyle Xiaomi 13 Pro, her ortamda harika sonuçlar elde etmenizi sağlar.",
     "sellerName": "GadgetHub",
-    "rating": 4,
+    "rating": 4.4,
     "reviewCount": 77,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star'></i>",
-      "<i className='bi bi-star'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "'bi bi-star",
+      "'bi bi-star"
+    ],
+    "sellerRating": 8.9
   },
-
+  
   {
     "id": 12,
     "productName": "Google Pixel 8",
@@ -207,11 +218,12 @@
     "rating": 4.5,
     "reviewCount": 156,
     "stars": [
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-fill'></i>",
-      "<i className='bi bi-star-half'></i>"
-    ]
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-fill",
+      "bi bi-star-half"
+    ],
+    "sellerRating": 9.2
   }
 ]

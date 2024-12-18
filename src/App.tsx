@@ -1,8 +1,9 @@
+import { RouterProvider } from "react-router-dom"
+import { MainRouter } from "./router/MainRouter"
+
 function App() {
   return (
-    <div>
-      shopping cart
-    </div>
+    <RouterProvider router={MainRouter}/>
   )
 }
 
