@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "productName": "Apple Watch Series 9",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728411387/2_yknsbc.webp",
+    "price": 27999.99,
+    "description": "Apple'ın en son teknolojisini taşıyan Apple Watch Series 9, mükemmel sağlık takibi ve ultra hassas özellikleriyle göz dolduruyor.",
+    "sellerName": "TechStore",
+    "rating": 4.5,
+    "reviewCount": 124,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-half'></i>"
+    ]
+  },
+
+  {
+    "id": 2,
+    "productName": "Huawei P50 Pro",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334083/22_u6kfmd.webp",
+    "price": 32499.99,
+    "description": "Mükemmel kamera özellikleri ve şık tasarımıyla Huawei P50 Pro, mobil fotoğrafçılık için ideal.",
+    "sellerName": "GadgetCity",
+    "rating": 5,
+    "reviewCount": 350,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>"
+    ]
+  },
+
+  {
+    "id": 3,
+    "productName": "Samsung Galaxy S24 Ultra",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334083/19_vd3z82.webp",
+    "price": 44999.99,
+    "description": "Samsung'un en güçlü modeli S24 Ultra ile eşsiz performansı ve profesyonel kamerayı deneyimleyin.",
+    "sellerName": "PhoneWorld",
+    "rating": 4,
+    "reviewCount": 212,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star'></i>"
+    ]
+  },
+
+  {
+    "id": 4,
+    "productName": "iPhone 14 Pro Max",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334082/17_rupbbv.webp",
+    "price": 48999.99,
+    "description": "Apple'ın inovasyon harikası olan iPhone 14 Pro Max, A16 Bionic çip ve çarpıcı ekranıyla harika bir kullanıcı deneyimi sunuyor.",
+    "sellerName": "AppleWorld",
+    "rating": 5,
+    "reviewCount": 600,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>"
+    ]
+  },
+
+  {
+    "id": 5,
+    "productName": "iPhone 16 Pro Max",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334079/1_yzu12e.webp",
+    "price": 69999.99,
+    "description": "Gelecek neslin temsilcisi olan iPhone 16 Pro Max ile şimdi tanışın. Yeni nesil yapay zeka teknolojileri ile desteklenmiştir.",
+    "sellerName": "TechZone",
+    "rating": 4.5,
+    "reviewCount": 150,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-half'></i>"
+    ]
+  },
+
+  {
+    "id": 6,
+    "productName": "Samsung Galaxy S24",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334079/4_ineirp.webp",
+    "price": 31999.99,
+    "description": "Şık ve zarif tasarımıyla öne çıkan Samsung Galaxy S24, günlük kullanım için mükemmel bir akıllı telefon.",
+    "sellerName": "PhoneWorld",
+    "rating": 4,
+    "reviewCount": 98,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star'></i>"
+    ]
+  },
+
+  {
+    "id": 7,
+    "productName": "Samsung Galaxy Watch",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728411388/4_h5lkzp.webp",
+    "price": 8999.99,
+    "description": "Samsung Galaxy Watch, spor aktivitelerinizi takip ederken şık bir stil sunar.",
+    "sellerName": "GadgetCity",
+    "rating": 4,
+    "reviewCount": 180,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star'></i>",
+      "<i className='bi bi-star'></i>"
+    ]
+  },
+
+  {
+    "id": 8,
+    "productName": "iPad Pro",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728415023/7_qldyvl.webp",
+    "price": 26999.99,
+    "description": "İş ve eğlenceyi bir araya getiren iPad Pro, güçlü performansı ve büyük ekranıyla dikkat çekiyor.",
+    "sellerName": "AppleWorld",
+    "rating": 4.5,
+    "reviewCount": 210,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-half'></i>"
+    ]
+  },
+
+  {
+    "id": 9,
+    "productName": "Samsung Tab S9",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728415024/10_hehpg1.webp",
+    "price": 22499.99,
+    "description": "Samsung Tab S9, taşınabilirlik ve performansı bir arada sunar. Özellikle not tutma ve içerik tüketimi için mükemmeldir.",
+    "sellerName": "TechStore",
+    "rating": 4,
+    "reviewCount": 99,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star'></i>",
+      "<i className='bi bi-star'></i>"
+    ]
+  },
+
+  {
+    "id": 10,
+    "productName": "Samsung OLED TV",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728415020/1_opafxy.webp",
+    "price": 42999.99,
+    "description": "Efsanevi renk ve kontrast sunan Samsung OLED TV, evinizde sinema kalitesi sağlar.",
+    "sellerName": "HomeTech",
+    "rating": 5,
+    "reviewCount": 300,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>"
+    ]
+  },
+
+  {
+    "id": 11,
+    "productName": "Xiaomi 13 Pro",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334082/8_kva7pv.webp",
+    "price": 24999.99,
+    "description": "Şık tasarımı ve gelişmiş kamera özellikleriyle Xiaomi 13 Pro, her ortamda harika sonuçlar elde etmenizi sağlar.",
+    "sellerName": "GadgetHub",
+    "rating": 4,
+    "reviewCount": 77,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star'></i>",
+      "<i className='bi bi-star'></i>"
+    ]
+  },
+
+  {
+    "id": 12,
+    "productName": "Google Pixel 8",
+    "imageURL": "https://res.cloudinary.com/omercikan/image/upload/v1728334083/14_o3sdzp.webp",
+    "price": 28999.99,
+    "description": "Google'ın sade tasarımı ve harika yazılım uyumu ile Pixel 8, minimalizm ve teknoloji sevenler için bir vazgeçilmez.",
+    "sellerName": "TechCity",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "stars": [
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-fill'></i>",
+      "<i className='bi bi-star-half'></i>"
+    ]
+  }
+]
