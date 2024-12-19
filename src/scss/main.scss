@@ -4,7 +4,12 @@
 //!Utils !//
 @use 'utils/base.scss';
 
+//!Layout !//
+@use 'layout/header.scss';
+
 //!Components !//
 @use 'components/productItem.scss';
 @use 'components/nav-item.scss';
 @use 'components/likes-item.scss';
+@use 'components/basket-item.scss';
+@use 'components/basket-card.scss';

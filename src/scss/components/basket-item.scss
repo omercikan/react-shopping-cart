@@ -1,0 +1,43 @@
+.basket-picture {
+    border-radius: 0 0 0px 8px;
+}
+
+@media(max-width: 768px) {
+    .basket-item-row {
+        padding: 10px;
+
+        .product-price {
+            margin-top: 0 !important;
+        }
+    }
+}
+
+@media(max-width: 576px) {
+    .basket-item-row {
+        padding: 1rem;
+        padding-right: 5rem;
+        padding-left: 1rem;
+
+        .img-col {
+            padding: 0;
+        }
+
+        .product-picture {
+            width: 100%;
+            height: 100%;
+
+            img {
+                border-radius: 8px;
+                height: 100%;
+            }
+        }
+
+        .product-title h4 {
+            font-size: 12px !important;
+        }
+
+        .product-price {
+            font-size: 14px;
+        }
+    }
+}

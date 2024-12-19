@@ -6,7 +6,7 @@ export const Navigation: React.FC = () => {
     const { state } = useContext(GlobalContext);
 
   return (
-    <nav className='navbar navbar-nav navbar-expand-lg'>
+    <nav className='navbar'>
         <ul className='d-flex gap-3 m-0'>
             <li className='nav-item'>
                 <Link className='nav-link' to='/begendiklerim'>

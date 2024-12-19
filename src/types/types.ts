@@ -8,9 +8,11 @@ export interface Product {
     price: number
     description: string
     sellerName: string
-    rating: number
-    reviewCount: number
-    stars: string[]
+    rating: number;
+    reviewCount: number;
+    stars: string[];
+    sellerRating: number;
+    amount: number;
 }
 //!Interface product fields END !//
 
