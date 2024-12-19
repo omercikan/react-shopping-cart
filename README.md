@@ -38,7 +38,7 @@
 
 <h2>🌐 Projeyi Klonlamak</h2>
 <p>Projeyi bilgisayarınıza klonlamak için şu komutları kullanabilirsiniz:</p>
-<pre><code>git clone https://github.com/[KullanıcıAdınız]/[RepoAdı].git</code></pre>
+<pre><code>git clone https://github.com/omercikan/react-shopping-cart.git</code></pre>
 
 <h2>🤝 Projeye Katkı</h2>
 <p>Bu proje açık kaynaklıdır ve isteyen herkes katkı sağlayabilir. Eğer projeye yeni özellikler eklemek, hata düzeltmeleri yapmak veya iyileştirmeler önermek istiyorsanız, projeyi çatallayarak (fork) pull request açabilirsiniz!</p>
